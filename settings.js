@@ -3,8 +3,8 @@
 //YouTube: https://youtube.com/@phantom-hacks01
 //Instagram: Not yet 😂
 //Telegram: https://t.me/+nKh48FEewlxkMTJk
-//GitHub: @Passkey-md
-//WhatsApp: +2348108395270
+//GitHub: @Jinwiil49
+//WhatsApp: +254769365617
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Phantom-hacks01
 
 
@@ -12,26 +12,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348108395270"
-global.ownername = "🕳️ Phantom+Hacker 🕳️"
-global.ytname = "YT: Phantom-hacks01"
-global.socialm = "GitHub: Passkey-md"
-global.location = "India, Mizoram, Aizawl"
+global.ownernomer = "254784320958"
+global.ownername = "🕳️ Jinwiil 🕷️+Onginjo 🕸️ 🕳️"
+global.ytname = "YT: Jinwiil 🕷️"
+global.socialm = "GitHub: Jinwiil49"
+global.location = "Africa, Kenya, Nairobi"
 
-global.ownernumber = '2348108395270'  //creator number
-global.ownername = '🕳️ Phantom+Hacker 🕳️' //owner name
+global.ownernumber = '25484320958'  //creator number
+global.ownername = '🕳️ Jinwiil 🕷️+Onginjo 🕸️ 🕳️' //owner name
 global.botname = 'Phantom-bug-bot' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄DGXeon\n\nContact: +2348108395270'
+global.author = '🦄DGXeon\n\nContact: +254769365617'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaBROanEquiLW3ii1n47'
+global.link = 'https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -39,11 +39,11 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
