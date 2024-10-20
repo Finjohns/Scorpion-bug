@@ -40,7 +40,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Passkey-md/Scorpion-bug
+git clone https://github.com/finjohns/Scorpion-bug
 cd Scorpion-bug
 yarn install 
 npm start
